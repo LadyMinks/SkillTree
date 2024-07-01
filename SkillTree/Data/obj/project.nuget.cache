@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+rlSul37QO66OeFPtOr8nObbfgiCcd7M4y9KZfgGivVE1rbUp8cz/onx4AVHFhffxGKBwzKU5c16FyXYqGjF9Q==",
+  "dgSpecHash": "em8wtk3IWUVH3YNrMwAQbd1BAZR0+/lqYyEBo2TSXT+Jyn9Uc86Rl2Gg4QL9Ah6fSy+hKREW3ryZQ5pZymuMTQ==",
   "success": true,
-  "projectFilePath": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\Data\\Data.csproj",
+  "projectFilePath": "D:\\Projects\\SkillTree\\SkillTree\\Data\\Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Minka\\.nuget\\packages\\graphql\\7.8.0\\graphql.7.8.0.nupkg.sha512",
     "C:\\Users\\Minka\\.nuget\\packages\\graphql-parser\\8.4.2\\graphql-parser.8.4.2.nupkg.sha512",

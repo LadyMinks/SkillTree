@@ -1,0 +1,313 @@
+.cardsContainer {
+    display: grid;
+    max-width: 1200px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: auto;
+    margin-left: auto;
+    margin-right: auto;
+    gap: 30px;
+    margin-bottom: 20vh;
+}
+
+.card {
+    width: 100%;
+    height: 504px;
+    border-radius: 20px;
+    background: var(--gradient-1, radial-gradient(103.46% 137.14% at 0% 0%, #D9D9D9 0%, #3A3360 0.01%, #2F2F6A 46.65%, #171C41 100%));
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    position: relative;
+}
+
+.skillsContainer div svg {
+  cursor: pointer;
+}
+
+/* Specifieke klassen voor elke kaart, gebruikt voor de positionering in het Grid */
+/* Heb je meer leeruitkomsten? Dan moet je handmatig meer klassen toevoegen, ik hoop voor de studenten dat dat niet nodig is :D */
+.card01 { grid-area: card01; }
+.card02 { grid-area: card02; }
+.card03 { grid-area: card03; }
+.card04 { grid-area: card04; }
+.card05 { grid-area: card05; }
+.card06 { grid-area: card06; }
+.card07 { grid-area: card07; }
+.card08 { grid-area: card08; }
+.card09 { grid-area: card09; }
+.card10 { grid-area: card10; }
+.card11 { grid-area: card11; }
+.card12 { grid-area: card12; }
+.card13 { grid-area: card13; }
+.card14 { grid-area: card14; }
+.card15 { grid-area: card15; }
+.card16 { grid-area: card16; }
+.card17 { grid-area: card17; }
+.card18 { grid-area: card18; }
+.card19 { grid-area: card19; }
+.card20 { grid-area: card20; }
+
+/* Stijlen voor afbeeldingscellen */
+.imageCell {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 504px;
+  overflow: visible;
+}
+
+.imageCell img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+  opacity: 0.35;
+  mix-blend-mode: screen;
+}
+  
+/* Specifieke margestijlen voor afbeeldingscellen */
+.imageLeft {
+  margin-left: -150px;
+  rotate: -15deg;
+}
+
+.imageRight {
+  margin-right: -150px;
+  rotate: 15deg;
+}
+
+.outcomeName {
+    color: #C5CBFC;
+    text-align: center;
+    position: relative;
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.outcomeName:hover {
+  color: #e3e6fc;
+  font-size: 2rem;
+  text-align: center;
+  cursor: pointer;
+}
+
+.outcomeGrade {
+    color: #C5CBFC;
+    text-align: center
+}
+
+.outcomeGrade:hover {
+  color: #e3e6fc;
+  font-size: 2rem;
+  text-align: center;
+  cursor: pointer;
+}
+
+.skillsContainer {
+  display: grid;
+  max-width: 289px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  gap: 5px;
+  grid-template-areas:
+  ". skill01 skill02"
+  "skill03 skill04 skill05"
+  ". skill06 skill07";
+}
+
+.skill01 { grid-area: skill01; margin-left: -49px; }
+.skill02 { grid-area: skill02; margin-left: -49px; }
+.skill03 { grid-area: skill03; margin-top: -28px; }
+.skill04 { grid-area: skill04; margin-top: -28px; }
+.skill05 { grid-area: skill05; margin-top: -28px;}
+.skill06 { grid-area: skill06; margin-left: -49px; margin-top: -55px; }
+.skill07 { grid-area: skill07; margin-left: -49px; margin-top: -55px; }
+
+.popoverWrapper {
+  position: relative;
+  text-align: center;
+}
+
+.popoverBelow,
+.popoverAbove {
+  display: none;
+  position: absolute;
+  width: 90%;
+  height: auto;
+  margin-left: 5%;
+}
+
+.popoverBelow {
+  top: 40px;
+}
+
+.popoverAbove {
+  bottom: 40px;
+}
+
+.popoverWrapper:hover .popoverBelow,
+.popoverWrapper:hover .popoverAbove {
+  display: block;
+}
+
+.popoverArrowUp {
+  width: 0; 
+  height: 0; 
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+  border-bottom: 8px solid black;
+  margin-left: calc(50% - 8px);
+}
+
+.popoverArrowDown {
+  width: 0; 
+  height: 0; 
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+  border-top: 8px solid black;
+  margin-left: calc(50% - 8px);
+}
+
+.popoverHidden {
+  display: none;
+}
+
+.popoverContent {
+  display: block;
+  width: 100%;
+  height: auto;
+  padding: 20px;
+  background-color: #140C2C;
+  border-radius: 8px;
+  color: #f0f2ff;
+  text-align: left;
+}
+
+.expandSkillContainer {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #2e264380;
+  display: flex;
+  align-items: stretch;
+  justify-content: flex-start;
+  z-index: 20;
+}
+
+.expandSkill {
+  color: #C5CBFC;
+  background-color: #140C2C;
+  padding: 20px;
+  border-radius: 8px;
+  width: 70%;
+  z-index: 21;
+  display: flex;
+  padding: 20px;
+  overflow: auto;
+}
+
+.no-scroll {
+  overflow: hidden;
+  pointer-events: none
+}
+
+.skillContent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 40px 60px;
+}
+
+.skillHeader, .skillBody {
+  padding: 10px;
+}
+
+.skillHeader h2, .skillHeader p {
+  margin: 0;
+}
+
+.skillClose {
+  display: flex;
+  align-items: flex-start;
+  padding: 10px;
+}
+
+.flipIcon:hover {
+  transform: scaleX(-1);
+  cursor: pointer;
+  color: #e3e6fc;
+}
+
+.flipIcon {
+  transition: transform 0.5s ease 0s;
+}
+
+.skillBody h3 {
+  padding: 16px 0px;
+}
+
+ul.accordion, .accordionContent ul {
+  list-style-type: none;
+}
+
+.accordionContent p::first-letter {
+  text-transform: capitalize;
+}
+
+.accordionHeader {
+  display: flex;
+  padding: 16px 0px;
+}
+
+.accordionHeader h4 {
+  flex: 1;
+}
+
+.accordionHeader:hover {
+  cursor: pointer;
+}
+
+.accordion {
+  border-top: #1D6AFF40 1px solid;
+}
+
+.accordionItem {
+  border-bottom: #1D6AFF40 1px solid;
+}
+
+.accordionContent {
+  color: #E8E9EB;
+  padding-bottom: 24px;
+}
+
+.proveSkill input {
+  border-radius: 8px;
+  background: #6E648E80;
+  padding: 8px 16px;
+  border-style: solid;
+  border: none;
+  color: #e3e6fc;
+  margin-right: 8px;
+}
+
+.proveSkill input::placeholder {
+  color: #e3e6fc80;
+}
+
+.proveSkill input:focus, .proveSkill button:focus {
+  outline: 1px solid #e3e6fc80;
+}
+
+.proveSkill button {
+  border-radius: 8px;
+  background: linear-gradient(to right, #B658F0 , #9971F4);
+  padding: 8px 16px;
+  color: #e3e6fc;
+  border-style: none;
+}

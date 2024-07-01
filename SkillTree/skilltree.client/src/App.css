@@ -118,6 +118,7 @@ label {
         transform: rotateX(180deg);
         margin-top: -4px;
         line-height: 20px;
+        overflow-y: scroll;
     }
 
 .Orienting {

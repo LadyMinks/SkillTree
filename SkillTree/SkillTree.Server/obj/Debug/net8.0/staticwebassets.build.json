@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "cu7792tdylM4Ri7U+hPAcoWZx0ZNT1arP/2AIIUs5R8=",
+  "Hash": "98PuJHpeCsx/84/tDy9yZ7oCD89gJI04A9HvaxbRpPk=",
   "Source": "SkillTree.Server",
   "BasePath": "_content/SkillTree.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\skilltree.client\\skilltree.client.esproj",
+      "Identity": "D:\\Projects\\SkillTree\\SkillTree\\skilltree.client\\skilltree.client.esproj",
       "Version": 2,
       "Source": "skilltree.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

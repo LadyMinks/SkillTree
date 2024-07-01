@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\Logic\\Logic.csproj": {}
+    "D:\\Projects\\SkillTree\\SkillTree\\Logic\\Logic.csproj": {}
   },
   "projects": {
-    "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\Logic\\Logic.csproj": {
+    "D:\\Projects\\SkillTree\\SkillTree\\Logic\\Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\Logic\\Logic.csproj",
+        "projectUniqueName": "D:\\Projects\\SkillTree\\SkillTree\\Logic\\Logic.csproj",
         "projectName": "Logic",
-        "projectPath": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\Logic\\Logic.csproj",
+        "projectPath": "D:\\Projects\\SkillTree\\SkillTree\\Logic\\Logic.csproj",
         "packagesPath": "C:\\Users\\Minka\\.nuget\\packages\\",
-        "outputPath": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\Logic\\obj\\",
+        "outputPath": "D:\\Projects\\SkillTree\\SkillTree\\Logic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Minka\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GBKSG0Pa1f1v5iKElhXc7w70jDg/xW/aAUbtbr7adW6j3R8hNt2jPGbW6XlXP2E6c5jC3wCjRv0z2dC5OpuKWQ==",
+  "dgSpecHash": "W4cLz6r61b3RXwj7XINMJlhaiZkRNETlQLMZgs+PLJIa5rBWgKaEOObWcvFefmEI4GPcv7sG7ozY/79KvPgcUg==",
   "success": true,
-  "projectFilePath": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\Test\\Test.csproj",
+  "projectFilePath": "D:\\Projects\\SkillTree\\SkillTree\\Test\\Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Minka\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Minka\\.nuget\\packages\\graphql\\7.8.0\\graphql.7.8.0.nupkg.sha512",

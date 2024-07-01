@@ -4195,11 +4195,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\SkillTree.Server\\SkillTree.Server.csproj",
+      "projectUniqueName": "D:\\Projects\\SkillTree\\SkillTree\\SkillTree.Server\\SkillTree.Server.csproj",
       "projectName": "SkillTree.Server",
-      "projectPath": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\SkillTree.Server\\SkillTree.Server.csproj",
+      "projectPath": "D:\\Projects\\SkillTree\\SkillTree\\SkillTree.Server\\SkillTree.Server.csproj",
       "packagesPath": "C:\\Users\\Minka\\.nuget\\packages\\",
-      "outputPath": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\SkillTree.Server\\obj\\",
+      "outputPath": "D:\\Projects\\SkillTree\\SkillTree\\SkillTree.Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Minka\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4216,11 +4216,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\Data\\Data.csproj": {
-              "projectPath": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\Data\\Data.csproj"
+            "D:\\Projects\\SkillTree\\SkillTree\\Data\\Data.csproj": {
+              "projectPath": "D:\\Projects\\SkillTree\\SkillTree\\Data\\Data.csproj"
             },
-            "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\Logic\\Logic.csproj": {
-              "projectPath": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\Logic\\Logic.csproj"
+            "D:\\Projects\\SkillTree\\SkillTree\\Logic\\Logic.csproj": {
+              "projectPath": "D:\\Projects\\SkillTree\\SkillTree\\Logic\\Logic.csproj"
             }
           }
         }

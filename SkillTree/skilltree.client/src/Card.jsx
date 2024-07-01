@@ -20,7 +20,13 @@ function Card({ forecast }) {
             break;
     }
 
-  
+    function htmlToPlainText(html) {
+        const parser = new DOMParser();
+        const doc = parser.parseFromString(html, 'text/html');
+        const plainText = doc.body.textContent || "";
+        return plainText.trim();
+    }
+
     return (<>
         <div className="flex-items">
             <label>
@@ -29,8 +35,8 @@ function Card({ forecast }) {
                     <div style={style}>
                         {forecast.grade}
                     </div>
-                    <div className="back">
-                        {forecast.description}
+                    <div className="back" style={style} >
+                        {htmlToPlainText(forecast.description)}
                     </div>
                 </div>
             </label>

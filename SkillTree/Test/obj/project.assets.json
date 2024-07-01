@@ -7571,11 +7571,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\Test\\Test.csproj",
+      "projectUniqueName": "D:\\Projects\\SkillTree\\SkillTree\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\Test\\Test.csproj",
+      "projectPath": "D:\\Projects\\SkillTree\\SkillTree\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\Minka\\.nuget\\packages\\",
-      "outputPath": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\Test\\obj\\",
+      "outputPath": "D:\\Projects\\SkillTree\\SkillTree\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Minka\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7592,14 +7592,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\Data\\Data.csproj": {
-              "projectPath": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\Data\\Data.csproj"
+            "D:\\Projects\\SkillTree\\SkillTree\\Data\\Data.csproj": {
+              "projectPath": "D:\\Projects\\SkillTree\\SkillTree\\Data\\Data.csproj"
             },
-            "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\Logic\\Logic.csproj": {
-              "projectPath": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\Logic\\Logic.csproj"
+            "D:\\Projects\\SkillTree\\SkillTree\\Logic\\Logic.csproj": {
+              "projectPath": "D:\\Projects\\SkillTree\\SkillTree\\Logic\\Logic.csproj"
             },
-            "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\SkillTree.Server\\SkillTree.Server.csproj": {
-              "projectPath": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\SkillTree.Server\\SkillTree.Server.csproj"
+            "D:\\Projects\\SkillTree\\SkillTree\\SkillTree.Server\\SkillTree.Server.csproj": {
+              "projectPath": "D:\\Projects\\SkillTree\\SkillTree\\SkillTree.Server\\SkillTree.Server.csproj"
             }
           }
         }

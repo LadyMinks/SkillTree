@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ckm//e2xoCXbrvjySpB/bzOSDpzrCdTx3jS5BgnRk0MsRfrHD7pjtSe9Icw9HxiF6d6J3cpkHZXsmtLBso4bGA==",
+  "dgSpecHash": "tmVNsJcC37pmA5AfkMGzI2IkW1peoIU6Hqg9AK3FkhLskyXc8vswNjCo/6c9cepwZN4o+McaJBJnb+T6BEYGWw==",
   "success": true,
-  "projectFilePath": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\Logic\\Logic.csproj",
+  "projectFilePath": "D:\\Projects\\SkillTree\\SkillTree\\Logic\\Logic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Minka\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Minka\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

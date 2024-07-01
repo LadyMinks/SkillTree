@@ -24,3 +24,16 @@ D:\Downloads\SkillTree18062024\SkillTree\SkillTree\Logic\obj\Debug\net8.0\Logic.
 D:\Downloads\SkillTree18062024\SkillTree\SkillTree\Logic\obj\Debug\net8.0\refint\Logic.dll
 D:\Downloads\SkillTree18062024\SkillTree\SkillTree\Logic\obj\Debug\net8.0\Logic.pdb
 D:\Downloads\SkillTree18062024\SkillTree\SkillTree\Logic\obj\Debug\net8.0\ref\Logic.dll
+D:\Projects\SkillTree\SkillTree\Logic\bin\Debug\net8.0\Logic.deps.json
+D:\Projects\SkillTree\SkillTree\Logic\bin\Debug\net8.0\Logic.dll
+D:\Projects\SkillTree\SkillTree\Logic\bin\Debug\net8.0\Logic.pdb
+D:\Projects\SkillTree\SkillTree\Logic\obj\Debug\net8.0\Logic.csproj.AssemblyReference.cache
+D:\Projects\SkillTree\SkillTree\Logic\obj\Debug\net8.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SkillTree\SkillTree\Logic\obj\Debug\net8.0\Logic.AssemblyInfoInputs.cache
+D:\Projects\SkillTree\SkillTree\Logic\obj\Debug\net8.0\Logic.AssemblyInfo.cs
+D:\Projects\SkillTree\SkillTree\Logic\obj\Debug\net8.0\Logic.csproj.CoreCompileInputs.cache
+D:\Projects\SkillTree\SkillTree\Logic\obj\Debug\net8.0\Logic.sourcelink.json
+D:\Projects\SkillTree\SkillTree\Logic\obj\Debug\net8.0\Logic.dll
+D:\Projects\SkillTree\SkillTree\Logic\obj\Debug\net8.0\refint\Logic.dll
+D:\Projects\SkillTree\SkillTree\Logic\obj\Debug\net8.0\Logic.pdb
+D:\Projects\SkillTree\SkillTree\Logic\obj\Debug\net8.0\ref\Logic.dll

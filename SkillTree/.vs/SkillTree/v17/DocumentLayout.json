@@ -1,36 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\",
+  "WorkspaceRootPath": "D:\\Projects\\SkillTree\\SkillTree\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{148C1A0A-8853-402D-8740-60CCAC784743}|skilltree.client\\skilltree.client.esproj|d:\\downloads\\skilltree18062024\\skilltree\\skilltree\\skilltree.client\\src\\card.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{148C1A0A-8853-402D-8740-60CCAC784743}|skilltree.client\\skilltree.client.esproj|solutionrelative:skilltree.client\\src\\card.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{148C1A0A-8853-402D-8740-60CCAC784743}|skilltree.client\\skilltree.client.esproj|d:\\projects\\skilltree\\skilltree\\skilltree.client\\src\\skilltreepage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{148C1A0A-8853-402D-8740-60CCAC784743}|skilltree.client\\skilltree.client.esproj|solutionrelative:skilltree.client\\src\\skilltreepage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{148C1A0A-8853-402D-8740-60CCAC784743}|skilltree.client\\skilltree.client.esproj|d:\\downloads\\skilltree18062024\\skilltree\\skilltree\\skilltree.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{148C1A0A-8853-402D-8740-60CCAC784743}|skilltree.client\\skilltree.client.esproj|d:\\projects\\skilltree\\skilltree\\skilltree.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{148C1A0A-8853-402D-8740-60CCAC784743}|skilltree.client\\skilltree.client.esproj|solutionrelative:skilltree.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{148C1A0A-8853-402D-8740-60CCAC784743}|skilltree.client\\skilltree.client.esproj|d:\\downloads\\skilltree18062024\\skilltree\\skilltree\\skilltree.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{148C1A0A-8853-402D-8740-60CCAC784743}|skilltree.client\\skilltree.client.esproj|solutionrelative:skilltree.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{148C1A0A-8853-402D-8740-60CCAC784743}|skilltree.client\\skilltree.client.esproj|d:\\projects\\skilltree\\skilltree\\skilltree.client\\src\\card.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{148C1A0A-8853-402D-8740-60CCAC784743}|skilltree.client\\skilltree.client.esproj|solutionrelative:skilltree.client\\src\\card.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Minka\\AppData\\Local\\Microsoft\\TypeScript\\5.2\\node_modules\\@types\\react\\index.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{148C1A0A-8853-402D-8740-60CCAC784743}|skilltree.client\\skilltree.client.esproj|d:\\downloads\\skilltree18062024\\skilltree\\skilltree\\skilltree.client\\src\\card.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{148C1A0A-8853-402D-8740-60CCAC784743}|skilltree.client\\skilltree.client.esproj|d:\\projects\\skilltree\\skilltree\\skilltree.client\\src\\card.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{148C1A0A-8853-402D-8740-60CCAC784743}|skilltree.client\\skilltree.client.esproj|solutionrelative:skilltree.client\\src\\card.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{148C1A0A-8853-402D-8740-60CCAC784743}|skilltree.client\\skilltree.client.esproj|d:\\downloads\\skilltree18062024\\skilltree\\skilltree\\skilltree.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{148C1A0A-8853-402D-8740-60CCAC784743}|skilltree.client\\skilltree.client.esproj|d:\\projects\\skilltree\\skilltree\\skilltree.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{148C1A0A-8853-402D-8740-60CCAC784743}|skilltree.client\\skilltree.client.esproj|solutionrelative:skilltree.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{148C1A0A-8853-402D-8740-60CCAC784743}|skilltree.client\\skilltree.client.esproj|d:\\downloads\\skilltree18062024\\skilltree\\skilltree\\skilltree.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{148C1A0A-8853-402D-8740-60CCAC784743}|skilltree.client\\skilltree.client.esproj|d:\\projects\\skilltree\\skilltree\\skilltree.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{148C1A0A-8853-402D-8740-60CCAC784743}|skilltree.client\\skilltree.client.esproj|solutionrelative:skilltree.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B96CBABC-6BFC-4B71-98F9-D9BD2F70EF67}|Logic\\Logic.csproj|d:\\downloads\\skilltree18062024\\skilltree\\skilltree\\logic\\gradecheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B96CBABC-6BFC-4B71-98F9-D9BD2F70EF67}|Logic\\Logic.csproj|d:\\projects\\skilltree\\skilltree\\logic\\gradecheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B96CBABC-6BFC-4B71-98F9-D9BD2F70EF67}|Logic\\Logic.csproj|solutionrelative:logic\\gradecheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -41,7 +41,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -49,29 +49,40 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SkillTreePage.jsx",
+              "DocumentMoniker": "D:\\Projects\\SkillTree\\SkillTree\\skilltree.client\\src\\SkillTreePage.jsx",
+              "RelativeDocumentMoniker": "skilltree.client\\src\\SkillTreePage.jsx",
+              "ToolTip": "D:\\Projects\\SkillTree\\SkillTree\\skilltree.client\\src\\SkillTreePage.jsx",
+              "RelativeToolTip": "skilltree.client\\src\\SkillTreePage.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-01T16:55:29.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "index.css",
-              "DocumentMoniker": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\skilltree.client\\src\\index.css",
+              "DocumentMoniker": "D:\\Projects\\SkillTree\\SkillTree\\skilltree.client\\src\\index.css",
               "RelativeDocumentMoniker": "skilltree.client\\src\\index.css",
-              "ToolTip": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\skilltree.client\\src\\index.css",
+              "ToolTip": "D:\\Projects\\SkillTree\\SkillTree\\skilltree.client\\src\\index.css",
               "RelativeToolTip": "skilltree.client\\src\\index.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-23T17:24:00.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T17:24:00.529Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "main.jsx",
-              "DocumentMoniker": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\skilltree.client\\src\\main.jsx",
+              "DocumentMoniker": "D:\\Projects\\SkillTree\\SkillTree\\skilltree.client\\src\\main.jsx",
               "RelativeDocumentMoniker": "skilltree.client\\src\\main.jsx",
-              "ToolTip": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\skilltree.client\\src\\main.jsx",
+              "ToolTip": "D:\\Projects\\SkillTree\\SkillTree\\skilltree.client\\src\\main.jsx",
               "RelativeToolTip": "skilltree.client\\src\\main.jsx",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-06-23T17:23:58.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T17:23:58.918Z"
             },
             {
               "$type": "Document",
@@ -81,31 +92,29 @@
               "ToolTip": "C:\\Users\\Minka\\AppData\\Local\\Microsoft\\TypeScript\\5.2\\node_modules\\@types\\react\\index.d.ts",
               "ViewState": "AQIAALUQAAAAAAAAAAAQwNcQAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-06-23T17:04:47.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T17:04:47.768Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Card.jsx",
-              "DocumentMoniker": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\skilltree.client\\src\\Card.jsx",
+              "DocumentMoniker": "D:\\Projects\\SkillTree\\SkillTree\\skilltree.client\\src\\Card.jsx",
               "RelativeDocumentMoniker": "skilltree.client\\src\\Card.jsx",
-              "ToolTip": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\skilltree.client\\src\\Card.jsx*",
-              "RelativeToolTip": "skilltree.client\\src\\Card.jsx*",
+              "ToolTip": "D:\\Projects\\SkillTree\\SkillTree\\skilltree.client\\src\\Card.jsx",
+              "RelativeToolTip": "skilltree.client\\src\\Card.jsx",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-06-23T16:59:10.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T16:59:10.113Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "App.jsx",
-              "DocumentMoniker": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\skilltree.client\\src\\App.jsx",
+              "DocumentMoniker": "D:\\Projects\\SkillTree\\SkillTree\\skilltree.client\\src\\App.jsx",
               "RelativeDocumentMoniker": "skilltree.client\\src\\App.jsx",
-              "ToolTip": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\skilltree.client\\src\\App.jsx*",
-              "RelativeToolTip": "skilltree.client\\src\\App.jsx*",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBwAAAA2AAAA",
+              "ToolTip": "D:\\Projects\\SkillTree\\SkillTree\\skilltree.client\\src\\App.jsx",
+              "RelativeToolTip": "skilltree.client\\src\\App.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2024-06-23T16:57:51.928Z",
               "EditorCaption": ""
@@ -114,61 +123,25 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "GradeCheck.cs",
-              "DocumentMoniker": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\Logic\\GradeCheck.cs",
+              "DocumentMoniker": "D:\\Projects\\SkillTree\\SkillTree\\Logic\\GradeCheck.cs",
               "RelativeDocumentMoniker": "Logic\\GradeCheck.cs",
-              "ToolTip": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\Logic\\GradeCheck.cs",
+              "ToolTip": "D:\\Projects\\SkillTree\\SkillTree\\Logic\\GradeCheck.cs",
               "RelativeToolTip": "Logic\\GradeCheck.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T08:37:10.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T08:37:10.805Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "card.css",
-              "DocumentMoniker": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\skilltree.client\\src\\card.css",
+              "DocumentMoniker": "D:\\Projects\\SkillTree\\SkillTree\\skilltree.client\\src\\card.css",
               "RelativeDocumentMoniker": "skilltree.client\\src\\card.css",
-              "ToolTip": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\skilltree.client\\src\\card.css",
+              "ToolTip": "D:\\Projects\\SkillTree\\SkillTree\\skilltree.client\\src\\card.css",
               "RelativeToolTip": "skilltree.client\\src\\card.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-23T17:30:33.504Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "33fec4c7-7a57-4b70-99cf-d07bf7f397af",
-        "Display": 1,
-        "X": 511,
-        "Y": 77,
-        "Width": 1052,
-        "Height": 511,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.css",
-              "DocumentMoniker": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\skilltree.client\\src\\App.css",
-              "RelativeDocumentMoniker": "skilltree.client\\src\\App.css",
-              "ToolTip": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\skilltree.client\\src\\App.css",
-              "RelativeToolTip": "skilltree.client\\src\\App.css",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAAAHsAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-23T17:41:25.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T17:30:33.504Z"
             }
           ]
         }
