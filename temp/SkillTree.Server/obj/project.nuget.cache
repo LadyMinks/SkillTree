@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "wCJFwAcjMR2v1Ig7xvYKQ3rpgeRGR6UjBXFjjgyNZAFYxFy62PRv4v6+Plh0Auq0QFnvxPuP0bcfxOEj+AQg0g==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\SkillTree\\SkillTree\\SkillTree.Server\\SkillTree.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Minka\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.5\\microsoft.aspnetcore.spaproxy.8.0.5.nupkg.sha512",
+    "C:\\Users\\Minka\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Minka\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Minka\\.nuget\\packages\\microsoft.typescript.msbuild\\5.4.4\\microsoft.typescript.msbuild.5.4.4.nupkg.sha512",
+    "C:\\Users\\Minka\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Minka\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Minka\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Minka\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

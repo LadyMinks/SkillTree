@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "98PuJHpeCsx/84/tDy9yZ7oCD89gJI04A9HvaxbRpPk=",
+  "Source": "SkillTree.Server",
+  "BasePath": "_content/SkillTree.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Projects\\SkillTree\\SkillTree\\skilltree.client\\skilltree.client.esproj",
+      "Version": 2,
+      "Source": "skilltree.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

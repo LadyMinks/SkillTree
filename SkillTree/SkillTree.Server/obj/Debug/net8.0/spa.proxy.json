@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:5173",
 "RedirectUrl": "",
 "LaunchCommand": "npm run dev",
-"WorkingDirectory": "D:\\Projects\\SkillTree\\SkillTree\\SkillTree.Server\\..\\skilltree.client",
+"WorkingDirectory": "D:\\Downloads\\SkillTree18062024\\SkillTree\\SkillTree\\SkillTree.Server\\..\\skilltree.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

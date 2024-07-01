@@ -1,0 +1,15 @@
+.Orienting{
+    background: linear-gradient(to right, #7b0202 0%, #d10202 100%)
+}
+
+.Beginning{
+    background:linear-gradient(to right, #6b7b02 0%, #cbeb1c 100%)
+}
+
+.Proficient{
+  background:linear-gradient(to right, #027b13 0%, #14d102 100%)
+}
+
+.Advanced{
+    background:linear-gradient(to right, #0e2e03 0%, #0b6605 100%)
+}

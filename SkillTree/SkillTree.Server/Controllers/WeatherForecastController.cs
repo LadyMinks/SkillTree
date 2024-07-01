@@ -1,33 +1,43 @@
+using Data;
+using Logic;
 using Microsoft.AspNetCore.Mvc;
+using System.Security.Cryptography.X509Certificates;
 
 namespace SkillTree.Server.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class WeatherForecastController : ControllerBase
+    public class WeatherForecastController : ControllerBase, IMock
     {
-        private static readonly string[] Summaries = new[]
-        {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-        };
-
+        private readonly IConfiguration _configuration;
+        private readonly String _token;
         private readonly ILogger<WeatherForecastController> _logger;
+        private readonly IGraphDTO _graphDTO;
+        private readonly String _course;
+        private readonly IApiDTO _apiDTO;
+        private readonly String _graphEndpoint;
+        private readonly String _apiEndpoint;
+        private readonly String _apiEndpointUser;
 
-        public WeatherForecastController(ILogger<WeatherForecastController> logger)
+        public WeatherForecastController(ILogger<WeatherForecastController> logger,IGraphDTO graphDTO, IConfiguration configuration, IApiDTO apiDTO)
         {
             _logger = logger;
+            _graphDTO = graphDTO;
+            _configuration = configuration;
+            _token = configuration["token"];
+            _course = configuration["course"];
+            _apiDTO = apiDTO;
+            _graphEndpoint = configuration["GraphEndpoint"];
+            _apiEndpoint = configuration["CanvasApiEndpoint"];
+            _apiEndpointUser = configuration["CanvasApiEndpointUser"];
         }
 
-        [HttpGet(Name = "GetWeatherForecast")]
-        public IEnumerable<WeatherForecast> Get()
-        {
-            return Enumerable.Range(1, 5).Select(index => new WeatherForecast
-            {
-                Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-                TemperatureC = Random.Shared.Next(-20, 55),
-                Summary = Summaries[Random.Shared.Next(Summaries.Length)]
-            })
-            .ToArray();
+        [HttpGet(Name = "Getweatherforecast")]
+        public async Task<ActionResult<List<learningOutcome>>> getLearningOutcomes()
+        {          
+            skillTree skilltree = new skillTree(this._graphDTO, this._apiDTO);
+            var learningoutcomes = await skilltree.getLearningOutcomes(_token,_course,_apiEndpoint,_apiEndpointUser,_graphEndpoint);       
+            return learningoutcomes.ToList();
         }
     }
 }

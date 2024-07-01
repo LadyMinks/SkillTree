@@ -1,1 +1,3 @@
 D:\Projects\SkillTree\SkillTree\skilltree.client\obj\Debug\skilltree.client.esproj.CoreCompileInputs.cache
+C:\Users\sebas\Source\Repos\SkillTree\SkillTree\skilltree.client\obj\Debug\skilltree.client.esproj.CoreCompileInputs.cache
+D:\Downloads\SkillTree18062024\SkillTree\SkillTree\skilltree.client\obj\Debug\skilltree.client.esproj.CoreCompileInputs.cache

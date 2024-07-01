@@ -1,0 +1,2 @@
+C:\Users\sebas\source\repos\SkillTree\SkillTree\UnitTestProjectSkilltree\obj\Debug\UnitTestProjectSkilltree.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\SkillTree\SkillTree\UnitTestProjectSkilltree\obj\Debug\UnitTestProjectSkilltree.csproj.CoreCompileInputs.cache
